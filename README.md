@@ -22,7 +22,7 @@ The dashboard helps track revenue, expenses, profit margins, and other financial
 
 ## Dashboard Access
 You can view the live dashboard here:  
-[Financial Dashboard](https://me-vikash-kumar.github.io/Financial_Dashboard/index.html)
+[Financial Dashboard](https://me-vikash-kumar.github.io/financial_dashboard/index.html)
 
 ---
 
